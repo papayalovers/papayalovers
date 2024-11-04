@@ -1,9 +1,15 @@
 👋 Hi, I’m @papayalovers
+
 👀 I’m interested in Data Science and started exploring this field in 2023.
+
 🌱 I’m currently studying at Universitas Sains dan Teknologi Indonesia, aiming to graduate in 2025.
+
 💞️ I’m looking to collaborate on beginner to intermediate Data Science projects to grow my skills and connect with the community.
+
 📫 How to reach me: [muhammadteguuh01@gmail.com]
+
 😄 Pronouns: they/them
+
 ⚡ Fun fact: I’m a huge fan of papayas and learning new things about technology!
 
 <!---
