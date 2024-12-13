@@ -8,7 +8,7 @@
 
 📫 How to reach me: [muhammadteguuh01@gmail.com]
 
-😄 Pronouns: they/them
+😄 Pronouns: he/him
 
 ⚡ Fun fact: I’m a huge fan of papayas and learning new things about technology!
 
